@@ -12,9 +12,14 @@
 - Can control a **computer cursor, wheelchair, or keyboard**
 - Affordable and minimalistic design
 
+## Modes of operation & Features of Ver1.0 (Comming soon..)
+- Keyboard interface & control using muscle twitches
+- specific command control having dedicated operations 
+- Speech synthesizer to vocalize the text message generated using a TTS engine
+
 ## 🛠️ Technologies Used
 - **Python** for signal processing & control logic
-- **Arduino** for sensor data acquisition
+- **Arduino** for sensor data acquisition (I2C Interface)
 - **Accelerometer/Tap Sensor** for muscle movement detection
 - **Serial Communication** for real-time data transfer
 
@@ -29,9 +34,9 @@
    ```
 2. Install dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install -r ./src/requirements.txt
    ```
-3. Connect your hardware and run the program:
+3. Acquire hardware (comming soon), Upload arduino code to hardware & run main script
    ```sh
    python main.py
    ```
