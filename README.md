@@ -12,7 +12,7 @@
 - Can control a **computer cursor, wheelchair, or keyboard**
 - Affordable and minimalistic design
 
-## Modes of operation & Features of Ver1.0 (Comming soon..)
+### 👀 Modes of operation & Features of Ver1.0 (Comming soon..)
 - Keyboard interface & control using muscle twitches
 - specific command control having dedicated operations 
 - Speech synthesizer to vocalize the text message generated using a TTS engine
